@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gorilla/websocket"
+	"github.com/predators46/websocket"
 )
 
 type websocketConn struct {
